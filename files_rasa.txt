@@ -1,0 +1,19 @@
+https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
+https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5
+https://www.kdnuggets.com/2018/08/wtf-tf-idf.html
+https://towardsdatascience.com/a-chatbot-from-future-building-an-end-to-end-conversational-assistant-with-rasa-ai-51a1c93dabf2
+https://chatbotslife.com/how-you-can-build-your-first-chatbot-using-rasa-in-under-15-minutes-ce557ea52f2f
+https://chatbotslife.com/best-chatbot-platforms-to-build-a-chatbot-13b846a59ddd
+https://chatbotslife.com/our-experience-building-chatbots-with-rasa-tuning-the-nlu-pipeline-74a80cd565b8   #########################
+
+https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8
+https://medium.com/rasa-blog/how-to-handle-multiple-intents-per-input-using-rasa-nlu-tensorflow-pipeline-75698b49c383
+
+
+https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/ 
+
+https://medium.com/datadriveninvestor/build-a-flight-search-chatbot-from-scratch-using-rasa-part-2-4e99abee4e88
+
+https://medium.com/@sarit.r/rasa-nlu-core-sdk-eb1d26f2d7c8  sdk
